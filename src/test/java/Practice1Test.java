@@ -12,5 +12,10 @@ public class Practice1Test {
 	{
 		System.out.println("Hi all  kooi");
 	}
+	@Test
+	public void m3()
+	{
+		System.out.println("Hi all  kooi");
+	}
 
 }
