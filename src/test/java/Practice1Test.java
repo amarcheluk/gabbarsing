@@ -7,5 +7,9 @@ public class Practice1Test {
 	{
 		System.out.println("Hello Everyone kooi");
 	}
+	public void m3()
+	{
+		System.out.println("Lets seeeeee ");
+	}
 
 }
