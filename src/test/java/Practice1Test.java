@@ -7,5 +7,10 @@ public class Practice1Test {
 	{
 		System.out.println("Hello Everyone kooi");
 	}
+	@Test
+	public void m2()
+	{
+		System.out.println("Hi all  kooi");
+	}
 
 }
